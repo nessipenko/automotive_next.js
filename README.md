@@ -3,7 +3,6 @@
 ## Требования
 
 - Node.js установлен на вашем компьютере. Вы можете загрузить его с официального сайта (<https://nodejs.org/en>)
-<https://github.com/nessipenko/automotive_next.js>
 
 ## Установка
 
