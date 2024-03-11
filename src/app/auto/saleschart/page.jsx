@@ -6,7 +6,7 @@ import {
     Box,
 } from '@mui/material';
 import Link from 'next/link'
-import useData from '../../api/page';
+import useData from '../../api/autoData';
 import PageContainer from '../../components/pageContainer';
 
 const SalesChart = () => {

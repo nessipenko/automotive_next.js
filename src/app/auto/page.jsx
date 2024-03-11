@@ -1,6 +1,6 @@
 'use client'
 import { useState } from "react";
-import useData from "../api/page";
+import useData from "../api/autoData";
 import AutoFilter from "../components/autoFilter/AutoFilter";
 import AutoList from "../components/autoList/AutoList";
 import {

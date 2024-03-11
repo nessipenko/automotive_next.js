@@ -1,7 +1,7 @@
 'use client'
 import React from 'react';
 import { useParams, Link } from 'next/navigation';
-import useData from '../../api/page';
+import useData from '../../api/autoData';
 import {
     Table,
     TableBody,

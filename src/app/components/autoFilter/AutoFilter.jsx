@@ -15,7 +15,7 @@ import {
     IconButton,
 } from '@mui/material';
 import CloseIcon from '@mui/icons-material/Close';
-import useData from '../../api/page';
+import useData from '../../api/autoData';
 
 const AutoFilter = ({ onFilterChange }) => {
     const data = useData();
