@@ -1,0 +1,418 @@
+[
+    {
+        "id": 1,
+        "make": "BMW",
+        "model": "X3",
+        "type": "suv",
+        "image":"https://static.rajamobil.com/media/images/databasemobil/mobilbaru/color/1677213147-BMW_I_F_D_G_M.png",
+        "sales": [
+            {
+                "date": "2023-05-21",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-12-05",
+                "reseller": "Premium Wheels"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "make": "Audi",
+        "model": "A3",
+        "type": "hatchback",
+        "image":"https://images.dealer.com/ddc/vehicles/2023/Audi/A3/Sedan/perspective/front-left/2023_76.png",
+        "sales": [
+            {
+                "date": "2023-01-23",
+                "reseller": "Luxe Autos"
+            },
+            {
+                "date": "2023-10-12",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-09-28",
+                "reseller": "Electric Autos Inc."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "type": "sedan",
+        "image":"https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_default/v1/editorial/mercedes-benz-c-class-my22-index-1.png",
+        "sales": [
+            {
+                "date": "2023-03-10",
+                "reseller": "Luxe Autos"
+            },
+            {
+                "date": "2023-06-15",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-09-21",
+                "reseller": "Prestige Motors"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "make": "Toyota",
+        "model": "Camry",
+        "type": "sedan",
+        "image":"https://i.pinimg.com/originals/56/f7/55/56f755ce852fc23de4ca0dd6e74361ea.png",
+        "sales": [
+            {
+                "date": "2023-02-28",
+                "reseller": "Premium Wheels"
+            },
+            {
+                "date": "2023-07-05",
+                "reseller": "Luxe Autos"
+            },
+            {
+                "date": "2023-12-20",
+                "reseller": "Electric Autos Inc."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "make": "Ford",
+        "model": "F-150",
+        "type": "pickup",
+        "image":"https://fordtadvantage-com.cdn-convertus.com/uploads/sites/8/2019/06/FordF-150.png",
+        "sales": [
+            {
+                "date": "2023-04-18",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-11-05",
+                "reseller": "Premium Wheels"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "make": "Honda",
+        "model": "Civic",
+        "type": "sedan",
+        "image":"https://di-uploads-pod6.dealerinspire.com/bianchihonda/uploads/2020/12/MY21_CivicSedan_Touring_PlatinumWhitePearl.png",
+        "sales": [
+            {
+                "date": "2023-05-06",
+                "reseller": "Premium Wheels"
+            },
+            {
+                "date": "2023-11-13",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-08-10",
+                "reseller": "Luxe Autos"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "make": "Chevrolet",
+        "model": "Camaro",
+        "type": "muscleAuto",
+        "image":"https://i.pinimg.com/originals/e7/c7/f5/e7c7f5d816bc9dc15583343d73cbda43.png",
+        "sales": [
+            {
+                "date": "2023-06-30",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-10-25",
+                "reseller": "Premium Wheels"
+            },
+            {
+                "date": "2023-09-12",
+                "reseller": "Electric Autos Inc."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "make": "Tesla",
+        "model": "Model S",
+        "type": "sedan",
+        "image": "https://www.pngall.com/wp-content/uploads/11/White-Tesla-Model-S-PNG-Image-HD.png",
+        "sales": [
+            {
+                "date": "2023-04-15",
+                "reseller": "Electric Autos Inc."
+            },
+            {
+                "date": "2023-10-02",
+                "reseller": "Prestige Motors"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "make": "Volkswagen",
+        "model": "Golf",
+        "type": "hatchback",
+        "image": "https://i.pinimg.com/originals/03/5c/6d/035c6d9e39fe11852356f5d9d39bb015.png",
+        "sales": [
+            {
+                "date": "2023-03-28",
+                "reseller": "Luxe Autos"
+            },
+            {
+                "date": "2023-07-19",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-10-10",
+                "reseller": "Premium Wheels"
+            },
+            {
+                "date": "2023-11-18",
+                "reseller": "Electric Autos Inc."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "make": "Subaru",
+        "model": "Outback",
+        "type": "wagon",
+        "image": "https://images.dealer.com/ddc/vehicles/2023/Subaru/Outback/SUV/perspective/front-left/2023_76.png",
+        "sales": [
+            {
+                "date": "2023-02-14",
+                "reseller": "Premium Wheels"
+            },
+            {
+                "date": "2023-09-30",
+                "reseller": "Luxe Autos"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "make": "BMW",
+        "model": "3 Series",
+        "type": "sedan",
+        "image":"https://www.bmw.pl/content/dam/bmw/common/all-models/3-series/sedan/2022/navigation/bmw-3-series-sedan-lci-modelfinder.png",
+        "sales": [
+            {
+                "date": "2023-03-25",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-07-11",
+                "reseller": "Premium Wheels"
+            },
+            {
+                "date": "2023-10-29",
+                "reseller": "Luxe Autos"
+            },
+            {
+                "date": "2023-08-15",
+                "reseller": "Premium Wheels"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "make": "Audi",
+        "model": "Q5",
+        "type": "suv",
+        "image":"https://i.pinimg.com/originals/d5/8c/95/d58c95d189fc440df3a8f3475fa16a89.png",
+        "sales": [
+            {
+                "date": "2023-04-14",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-11-18",
+                "reseller": "Luxe Autos"
+            },
+            {
+                "date": "2023-10-28",
+                "reseller": "Electric Autos Inc."
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "type": "sedan",
+        "image":"https://corporate.sixt.com/wp-content/uploads/2019/07/sixt.com-corporate-sixt.com-mb-mercedes-e-class-company-car-black-2016.png",
+        "sales": [
+            {
+                "date": "2023-03-18",
+                "reseller": "Premium Wheels"
+            },
+            {
+                "date": "2023-07-29",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-10-14",
+                "reseller": "Luxe Autos"
+            },
+            {
+                "date": "2023-12-10",
+                "reseller": "Premium Wheels"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "make": "Toyota",
+        "model": "RAV4",
+        "type": "suv",
+        "image":"https://pictures.dealer.com/c/chicagonorthsidetoyota/1898/f1dd312742a2faf417c53bcd023d6f3dx.jpg?impolicy=downsize&w=568",
+        "sales": [
+            {
+                "date": "2023-04-05",
+                "reseller": "Luxe Autos"
+            },
+            {
+                "date": "2023-08-26",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-11-30",
+                "reseller": "Premium Wheels"
+            },
+            {
+                "date": "2023-09-05",
+                "reseller": "Electric Autos Inc."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "make": "Ford",
+        "model": "Mustang",
+        "type": "muscleAuto",
+        "image":"https://purepng.com/public/uploads/large/purepng.com-ford-mustangford-mustangford-falconcompact-carcars-17015274822267bvjp.png",
+        "sales": [
+            {
+                "date": "2023-05-10",
+                "reseller": "Premium Wheels"
+            },
+            {
+                "date": "2023-09-01",
+                "reseller": "Luxe Autos"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "make": "Honda",
+        "model": "HR-V",
+        "type": "suv",
+        "image":"https://www.honda.pl/content/dam/central/cars/hr-v-teaser/HR-V-Hybrid-overview-lite/HR-V-Hybrid-Advance.png/jcr:content/renditions/c2_r.png",
+        "sales": [
+            {
+                "date": "2023-02-22",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-06-16",
+                "reseller": "Premium Wheels"
+            },
+            {
+                "date": "2023-10-20",
+                "reseller": "Luxe Autos"
+            },
+            {
+                "date": "2023-11-20",
+                "reseller": "Premium Wheels"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "make": "Chevrolet",
+        "model": "Silverado",
+        "type": "pickup",
+        "image":"https://i.pinimg.com/originals/7e/b1/6e/7eb16e37daf2017dc1ba80d556d97bbb.png",
+        "sales": [
+            {
+                "date": "2023-10-18",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-08-20",
+                "reseller": "Electric Autos Inc."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "make": "Tesla",
+        "model": "Model 3",
+        "type": "sedan",
+        "image":"https://www.greenncap.com/wp-content/uploads/tesla-model-3-2022-0099.png",
+        "sales": [
+            {
+                "date": "2023-04-30",
+                "reseller": "Electric Autos Inc."
+            },
+            {
+                "date": "2023-08-05",
+                "reseller": "Premium Wheels"
+            },
+            {
+                "date": "2023-11-27",
+                "reseller": "Premium Wheels"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "make": "Volkswagen",
+        "model": "Tiguan",
+        "type": "suv",
+        "image":"https://nezavisimost.su/img/cars/699/7.png?v=12.2",
+        "sales": [
+            {
+                "date": "2023-02-10",
+                "reseller": "Prestige Motors"
+            },
+            {
+                "date": "2023-10-15",
+                "reseller": "Luxe Autos"
+            },
+            {
+                "date": "2023-12-15",
+                "reseller": "Prestige Motors"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "make": "Subaru",
+        "model": "Forester",
+        "type": "suv",
+        "image":"https://pngimg.com/d/subaru_PNG11966.png",
+        "sales": [
+            {
+                "date": "2023-03-20",
+                "reseller": "Premium Wheels"
+            },
+            {
+                "date": "2023-07-14",
+                "reseller": "Luxe Autos"
+            },
+            {
+                "date": "2023-10-30",
+                "reseller": "Electric Autos Inc."
+            }
+        ]
+    }
+]
